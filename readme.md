@@ -10,8 +10,9 @@ Under the hood, A-Frame is built on top of Custom Elements and is powered by thr
 
 ## Getting Started
 
-* Step 1: Place this cdn in the head of your Doc [](https://aframe.io/releases/0.2.0/aframe.js)
-* Step 2: There is no step 2. Start coding
+* Step 1: bundle install aframe
+* Step 2: require('aframe');
+* Step 3: There is no step 3. Start coding
 
 ## For more Documentation
 
